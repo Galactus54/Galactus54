@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Galactus54 otherwise, Drew Hmiel
-- 👀 I’m interested in Science, Optics, Atompheric Physics, Solar Irradiance electronics, Arduino 
+- 👀 I’m interested in Science, Optics, Atmospheric Physics, Solar Irradiance electronics, Arduino 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on Docker, Poetry and others
 - 📫 How to reach me andrewhmiel@protonmail.com
 
 <!---
